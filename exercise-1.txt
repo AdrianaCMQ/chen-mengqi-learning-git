@@ -1,0 +1,3 @@
+I begin to learn Git today.
+It is very interesting.
+I am gonna love Git!
